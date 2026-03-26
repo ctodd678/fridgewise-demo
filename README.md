@@ -26,7 +26,7 @@ The average household wastes **$1,500+ per year** on food that expires before it
 ```
 ┌─────────────────────────────────────────────────────────┐
 │                    Flutter Mobile App                   │
-│              (Dart — iOS & Android)                     │
+│                  (Dart — iOS & Android)                 │
 │                                                         │
 │   ┌──────────┐  ┌──────────────┐  ┌──────────────────┐  │
 │   │  Camer   │  │   Pantry     │  │  Recipe          │  │
@@ -38,7 +38,7 @@ The average household wastes **$1,500+ per year** on food that expires before it
           ▼              ▼                   ▼
 ┌─────────────────────────────────────────────────────────┐
 │                   FastAPI Backend                       │
-│                  (Python — Dockerized)                  │
+│                 (Python — Dockerized)                   │
 │                                                         │
 │   ┌──────────────┐  ┌─────────────┐  ┌───────────────┐  │
 │   │  Receipt     │  │  Inventory  │  │  Recipe       │  │
