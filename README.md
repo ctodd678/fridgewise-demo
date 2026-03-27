@@ -145,7 +145,7 @@ The base Ollama vision model is being distilled into a smaller, task-specific mo
 
 ## 🎬 Demo
 
-> *Demo video/GIF coming soon — will show the full receipt-to-inventory pipeline in action.*
+> *Receipt to grocery data JSON back-end demo using temporary front-end web GUI.*
 
 ![FridgeWise_Demo_GIF](https://github.com/user-attachments/assets/74a85a50-f898-4170-86a3-08df4322cfee)
 
