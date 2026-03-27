@@ -145,10 +145,11 @@ The base Ollama vision model is being distilled into a smaller, task-specific mo
 
 ## 🎬 Demo
 
-> *Receipt to grocery data JSON back-end demo using temporary front-end web GUI.*
+> *Receipt to grocery data JSON. Back-end AI model demo using temporary front-end web GUI.*
 
-![FridgeWise_Demo_GIF](https://github.com/user-attachments/assets/74a85a50-f898-4170-86a3-08df4322cfee)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/74a85a50-f898-4170-86a3-08df4322cfee" width="300" alt="FridgeWise Demo">
+</p>
 
 ---
 
