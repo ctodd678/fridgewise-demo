@@ -8,6 +8,16 @@ FridgeWise is a mobile application that uses computer vision to convert grocery 
 
 ---
 
+## 🎬 Demo
+
+> *Receipt to grocery data JSON. Back-end AI model running locally being called by flutter application via Android Emulator.*
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6fff8a35-4802-4f38-825b-e9a98dbd710b" width="350" alt="fridgewise_demo_flutter">
+</p>
+
+---
+
 ## 🎯 Problem
 
 The average household wastes **$1,500+ per year** on food that expires before it's used. Most people don't track what's in their fridge, forget what they bought, and end up throwing out groceries they didn't know they had.
@@ -140,19 +150,6 @@ The base Ollama vision model is being distilled into a smaller, task-specific mo
 - [ ] Flutter mobile app frontend
 - [ ] Push notifications for expiring items
 - [ ] Multi-store receipt support (Loblaws, Metro, Walmart, Costco, etc.)
-
----
-
-## 🎬 Demo
-
-> *Receipt to grocery data JSON. Back-end AI model running locally being called by flutter application via Android Emulator.*
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/6fff8a35-4802-4f38-825b-e9a98dbd710b" width="350" alt="fridgewise_demo_flutter">
-</p>
-
-
-
 
 ---
 
