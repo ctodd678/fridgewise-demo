@@ -39,7 +39,7 @@ The average household wastes **$1,500+ per year** on food that expires before it
 │                  (Dart — iOS & Android)                 │
 │                                                         │
 │   ┌──────────┐  ┌──────────────┐  ┌──────────────────┐  │
-│   │  Camer   │  │   Pantry     │  │  Recipe          │  │
+│   │  Camera  │  │   Pantry     │  │  Recipe          │  │
 │   │  Capture │  │   Dashboard  │  │  Suggestions     │  │
 │   └─────┬────┘  └──────┬───────┘  └────────┬─────────┘  │
 │         │              │                   │            │
