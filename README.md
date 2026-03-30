@@ -145,11 +145,11 @@ The base Ollama vision model is being distilled into a smaller, task-specific mo
 
 ## 🎬 Demo
 
-> *Receipt to grocery data JSON. Back-end AI model demo using temporary front-end web GUI.*
+> *Receipt to grocery data JSON. Back-end AI model running locally being called by flutter application via Android Emulator.*
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/74a85a50-f898-4170-86a3-08df4322cfee" width="300" alt="FridgeWise Demo">
-</p>
+![fridgewise_demo_flutter](https://github.com/user-attachments/assets/b24f7b97-47da-4b15-a476-81e4e0ccc7cb)
+
+
 
 ---
 
