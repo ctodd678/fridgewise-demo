@@ -13,7 +13,7 @@ FridgeWise is a mobile application that uses computer vision to convert grocery 
 > *Receipt to grocery data JSON. Back-end AI model running locally being called by flutter application via Android Emulator.*
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6fff8a35-4802-4f38-825b-e9a98dbd710b" width="350" alt="fridgewise_demo_flutter">
+  <img src="https://github.com/user-attachments/assets/c8609b39-f096-4749-b556-5229f00f1719" width="350" alt="fridgewise_demo_flutter">
 </p>
 
 ---
